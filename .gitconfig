@@ -1,0 +1,7 @@
+[user]
+	name = <INSERT_username>
+	email = <INSERT_e-mail>
+[push]
+	default = tracking
+[url "ssh://git@github.com/"]
+	insteadOf = https://github.com/
